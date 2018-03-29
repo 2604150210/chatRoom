@@ -1,4 +1,4 @@
-package myServlet;
+package chatroom.controller;
 
 import java.io.IOException;
 
